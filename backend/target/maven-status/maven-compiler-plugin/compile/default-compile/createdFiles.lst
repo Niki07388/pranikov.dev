@@ -1,0 +1,4 @@
+com\pranikov\portfolio\api\HealthController.class
+com\pranikov\portfolio\PortfolioBackendApplication.class
+com\pranikov\portfolio\config\AdminApiKeyFilter.class
+com\pranikov\portfolio\api\ApiExceptionHandler.class

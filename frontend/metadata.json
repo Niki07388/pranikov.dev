@@ -1,0 +1,7 @@
+{
+  "name": "Pranikov Corporate Portfolio",
+  "description": "A high-end, production-ready corporate portfolio website for Pranikov, featuring a secret admin portal, dynamic project management, and a custom analytics dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
